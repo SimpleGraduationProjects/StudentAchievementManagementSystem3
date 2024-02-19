@@ -8,7 +8,7 @@
         <!--数据库驱动 -->
         <property name="driverClassName" value="com.mysql.jdbc.Driver"></property>
         <!--连接数据库的url -->
-        <property name="url" value="jdbc:mysql://localhost:3306/graudation_score?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai&amp;autoReconnect=true&amp;failOverReadOnly=false&amp;allowPublicKeyRetrieval=true"></property>
+        <property name="url" value="jdbc:mysql://localhost:3306/graduation_206_score?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai&amp;autoReconnect=true&amp;failOverReadOnly=false&amp;allowPublicKeyRetrieval=true"></property>
         <!--连接数据库的用户名 -->
         <property name="username" value="root"></property>
         <!--连接数据库的密码 -->
